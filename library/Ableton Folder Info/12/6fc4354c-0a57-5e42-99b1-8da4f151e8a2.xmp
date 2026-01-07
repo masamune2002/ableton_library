@@ -43,11 +43,19 @@
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Drums/Acoustic Australia Kit.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>1</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
             </rdf:Bag>
          </ablFR:items>
-         <xmp:CreatorTool>Updated by Ableton Index 12.2.1</xmp:CreatorTool>
+         <xmp:CreatorTool>Updated by Ableton Index 12.2.7</xmp:CreatorTool>
          <xmp:CreateDate>2025-10-12T16:02:07-05:00</xmp:CreateDate>
-         <xmp:MetadataDate>2025-10-14T00:16:06-05:00</xmp:MetadataDate>
+         <xmp:MetadataDate>2026-01-04T19:29:45-06:00</xmp:MetadataDate>
       </rdf:Description>
    </rdf:RDF>
 </x:xmpmeta>
