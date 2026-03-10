@@ -11,10 +11,17 @@
          <ablFR:colors>
             <rdf:Bag>
                <rdf:li>1</rdf:li>
+               <rdf:li>6</rdf:li>
             </rdf:Bag>
          </ablFR:colors>
-         <xmp:CreatorTool>Ableton Index 12.1.11</xmp:CreatorTool>
+         <ablFR:keywords>
+            <rdf:Bag>
+               <rdf:li>Sounds|Bass</rdf:li>
+            </rdf:Bag>
+         </ablFR:keywords>
+         <xmp:CreatorTool>Updated by Ableton Index 12.2.7</xmp:CreatorTool>
          <xmp:CreateDate>2025-05-08T15:14:07-05:00</xmp:CreateDate>
+         <xmp:MetadataDate>2026-01-14T14:31:30-06:00</xmp:MetadataDate>
       </rdf:Description>
    </rdf:RDF>
 </x:xmpmeta>

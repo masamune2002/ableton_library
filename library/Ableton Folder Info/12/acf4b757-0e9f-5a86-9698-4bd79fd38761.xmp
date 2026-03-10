@@ -10,13 +10,13 @@
          <ablFR:deviceId>device:vst3:instr:abcdef01-9182-faeb-4447-534244657864</ablFR:deviceId>
          <ablFR:colors>
             <rdf:Bag>
-               <rdf:li>1</rdf:li>
                <rdf:li>4</rdf:li>
+               <rdf:li>6</rdf:li>
             </rdf:Bag>
          </ablFR:colors>
          <xmp:CreatorTool>Updated by Ableton Index 12.2.7</xmp:CreatorTool>
          <xmp:CreateDate>2025-05-06T01:01:10-05:00</xmp:CreateDate>
-         <xmp:MetadataDate>2025-12-17T22:47:19-06:00</xmp:MetadataDate>
+         <xmp:MetadataDate>2026-01-13T21:32:03-06:00</xmp:MetadataDate>
       </rdf:Description>
    </rdf:RDF>
 </x:xmpmeta>

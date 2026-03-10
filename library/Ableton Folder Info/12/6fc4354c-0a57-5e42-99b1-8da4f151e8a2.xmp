@@ -31,7 +31,7 @@
                   <ablFR:filePath>Sounds/Synth Lead/Other Worlds.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -39,7 +39,7 @@
                   <ablFR:filePath>Sounds/Guitar &amp; Plucked/Uplift Upside.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -47,7 +47,120 @@
                   <ablFR:filePath>Drums/Acoustic Australia Kit.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Sounds/Synth Lead/Metro Lead.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Sounds/Synth Lead/Melbourne Clav.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Sounds/Guitar &amp; Plucked/Coral Guitar.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Sounds/Piano &amp; Keys/Dub Brigade Piano.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Sounds/Piano &amp; Keys/TransAm Piano.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Sounds/Piano &amp; Keys/Wallah Keys.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Sounds/Synth Keys/106 Organ.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Sounds/Synth Keys/Impaled Keys.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Sounds/Synth Keys/Retro Synthicon.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Sounds/Synth Keys/Subtle Lightwaves.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Sounds/Synth Keys/Voyetra Voyage.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Sounds/Synth Pad/Midnight Chords.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
                         <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Sounds/Voices/Glowing Choir Female.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Sounds/Voices/Reverse Choir.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -55,7 +168,7 @@
          </ablFR:items>
          <xmp:CreatorTool>Updated by Ableton Index 12.2.7</xmp:CreatorTool>
          <xmp:CreateDate>2025-10-12T16:02:07-05:00</xmp:CreateDate>
-         <xmp:MetadataDate>2026-01-04T19:29:45-06:00</xmp:MetadataDate>
+         <xmp:MetadataDate>2026-01-20T02:55:26-06:00</xmp:MetadataDate>
       </rdf:Description>
    </rdf:RDF>
 </x:xmpmeta>

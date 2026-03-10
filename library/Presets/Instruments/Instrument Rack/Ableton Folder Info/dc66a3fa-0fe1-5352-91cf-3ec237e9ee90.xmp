@@ -10,26 +10,190 @@
          <ablFR:items>
             <rdf:Bag>
                <rdf:li rdf:parseType="Resource">
-                  <ablFR:filePath>Chipsynth Electric Guitar.adg</ablFR:filePath>
+                  <ablFR:filePath>Bass Selector.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
                         <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
                <rdf:li rdf:parseType="Resource">
-                  <ablFR:filePath>Choir-Backed Guitark.adg</ablFR:filePath>
+                  <ablFR:filePath>Guy Engine - Ether Pad Reverb.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Basic Guitar Selector.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Basic Instrument Selector.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Chipsynth Electric Guitar.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Cinematic Arp.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
                         <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>E2 - Solemn Space Choir Reverbed.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+                  <ablFR:keywords>
+                     <rdf:Bag>
+                        <rdf:li>Sounds|Voice</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:keywords>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Keys Selector.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+                  <ablFR:keywords>
+                     <rdf:Bag>
+                        <rdf:li>Sounds|Piano &amp; Keys</rdf:li>
+                        <rdf:li>Type|Selector</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:keywords>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>SynthHorn Arp.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+                  <ablFR:keywords>
+                     <rdf:Bag>
+                        <rdf:li>Sounds|Synth</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:keywords>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Super Basic Instrument Rack.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Ableton Bass Selector.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Basic Instrument Rack.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Basic Bass Selector.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Basic Keys Selector.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Contemporary Bass.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+                  <ablFR:keywords>
+                     <rdf:Bag>
+                        <rdf:li>Character|Acoustic</rdf:li>
+                        <rdf:li>Sounds|Bass</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:keywords>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Choir-Backed Guitar.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Guitar-Dual Amped Heavy.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+                  <ablFR:keywords>
+                     <rdf:Bag>
+                        <rdf:li>Character|Distorted</rdf:li>
+                        <rdf:li>Sounds|Guitar &amp; Plucked</rdf:li>
+                        <rdf:li>Sounds|Guitar &amp; Plucked|Electric Guitar</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:keywords>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>An Electric Guitar.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
             </rdf:Bag>
          </ablFR:items>
          <xmp:CreatorTool>Updated by Ableton Index 12.2.7</xmp:CreatorTool>
-         <xmp:CreateDate>2026-01-03T22:13:01-06:00</xmp:CreateDate>
-         <xmp:MetadataDate>2026-01-05T17:55:14-06:00</xmp:MetadataDate>
+         <xmp:CreateDate>2026-01-14T14:35:55-06:00</xmp:CreateDate>
+         <xmp:MetadataDate>2026-01-25T13:56:53-06:00</xmp:MetadataDate>
       </rdf:Description>
    </rdf:RDF>
 </x:xmpmeta>

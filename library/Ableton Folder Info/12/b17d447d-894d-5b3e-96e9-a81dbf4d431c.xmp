@@ -16,6 +16,7 @@
                   <ablFR:colors>
                      <rdf:Bag>
                         <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -23,7 +24,7 @@
                   <ablFR:filePath>Racks/Instrument Racks/Pad/After Glow Pad.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -31,7 +32,7 @@
                   <ablFR:filePath>Racks/Instrument Racks/Pad/Airport Pad.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -39,7 +40,7 @@
                   <ablFR:filePath>Racks/Instrument Racks/Synth Rhythmic/Alien Army.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                   <ablFR:hideKeywords>
@@ -52,7 +53,7 @@
                   <ablFR:filePath>Racks/Instrument Racks/Brass/Alpha Brass Affair.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -60,7 +61,7 @@
                   <ablFR:filePath>Racks/Instrument Racks/Synth Keys/Analog Emulation Keys.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -68,7 +69,7 @@
                   <ablFR:filePath>Devices/Instruments/Drift/Bass/AG Bass.adv</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -76,7 +77,7 @@
                   <ablFR:filePath>Racks/Instrument Racks/Guitar/Guit Layter.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -84,7 +85,7 @@
                   <ablFR:filePath>Racks/Instrument Racks/Guitar/Guitar Acoustic.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -92,7 +93,7 @@
                   <ablFR:filePath>Racks/Instrument Racks/Guitar/Guitar Electric Clean.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -100,7 +101,7 @@
                   <ablFR:filePath>Racks/Instrument Racks/Guitar/Ionosphere Guitar.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -108,7 +109,7 @@
                   <ablFR:filePath>Racks/Instrument Racks/Plucked/Karplus-Strong Plucks.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -116,7 +117,7 @@
                   <ablFR:filePath>Racks/Instrument Racks/Plucked/Kyoto Guitar.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -124,7 +125,7 @@
                   <ablFR:filePath>Racks/Instrument Racks/Plucked/Kyoto Pluck.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -132,7 +133,7 @@
                   <ablFR:filePath>Racks/Instrument Racks/Guitar/Lyre Albany.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -140,7 +141,7 @@
                   <ablFR:filePath>Racks/Instrument Racks/Synth Rhythmic/Mean Pulse.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -148,7 +149,7 @@
                   <ablFR:filePath>Racks/Instrument Racks/Plucked/Plucked MPE/MPE Creep Pluck.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -156,7 +157,7 @@
                   <ablFR:filePath>Racks/Instrument Racks/Guitar/Guitar MPE/MPE Dulcimatica.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -164,7 +165,7 @@
                   <ablFR:filePath>Racks/Instrument Racks/Guitar/Guitar MPE/MPE Mountain Guitar.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -172,7 +173,7 @@
                   <ablFR:filePath>Racks/Instrument Racks/Guitar/Guitar MPE/MPE Single Coil Thumb.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -180,7 +181,7 @@
                   <ablFR:filePath>Racks/Instrument Racks/Plucked/Plucked MPE/MPE Slide Pluck FM.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -188,7 +189,7 @@
                   <ablFR:filePath>Racks/Instrument Racks/Plucked/Plucked MPE/MPE Smeary Plucks.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -196,7 +197,7 @@
                   <ablFR:filePath>Racks/Instrument Racks/Plucked/Multi Saw Pluck.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -204,7 +205,7 @@
                   <ablFR:filePath>Racks/Instrument Racks/Guitar/Oscillation Guitar.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -212,7 +213,7 @@
                   <ablFR:filePath>Racks/Instrument Racks/Guitar/Palm Guitar.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -220,7 +221,7 @@
                   <ablFR:filePath>Racks/Instrument Racks/Plucked/Point Pluck.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -228,7 +229,7 @@
                   <ablFR:filePath>Racks/Instrument Racks/Plucked/Shimmer Pluck.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -236,7 +237,7 @@
                   <ablFR:filePath>Racks/Instrument Racks/Plucked/Square Pluck.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -244,7 +245,7 @@
                   <ablFR:filePath>Racks/Instrument Racks/Guitar/Strum-o-Matic.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -252,7 +253,7 @@
                   <ablFR:filePath>Racks/Instrument Racks/Plucked/Vector Connector.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -260,7 +261,7 @@
                   <ablFR:filePath>Racks/Instrument Racks/Plucked/Water Pluck.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -268,7 +269,7 @@
                   <ablFR:filePath>Racks/Instrument Racks/Strings/Basic Jun Strings.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -276,7 +277,7 @@
                   <ablFR:filePath>Racks/Instrument Racks/Bass/Basic Mello Bass.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -284,7 +285,7 @@
                   <ablFR:filePath>Racks/Instrument Racks/Pad/Basic Mellow Pad.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -292,7 +293,7 @@
                   <ablFR:filePath>Racks/Instrument Racks/Guitar/Basic Nylon Concerto Guitar.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -300,7 +301,7 @@
                   <ablFR:filePath>Racks/Audio Effect Racks/Distortion/Smokey Water.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -308,7 +309,7 @@
                   <ablFR:filePath>Racks/Instrument Racks/Brass/Poly Synth Brass.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -316,7 +317,7 @@
                   <ablFR:filePath>Devices/Instruments/Drift/Synth Lead/Hubus Lead.adv</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -324,7 +325,7 @@
                   <ablFR:filePath>Racks/Instrument Racks/Piano &amp; Keys/E-Piano Faceplant.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -332,7 +333,7 @@
                   <ablFR:filePath>Racks/Instrument Racks/Plucked/Drippy Cave Pluck.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -340,7 +341,7 @@
                   <ablFR:filePath>Devices/Instruments/Drift/Synth Keys/80s Tape.adv</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -348,7 +349,7 @@
                   <ablFR:filePath>Racks/Instrument Racks/Piano &amp; Keys/E-Piano Basic.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -357,6 +358,7 @@
                   <ablFR:colors>
                      <rdf:Bag>
                         <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -364,15 +366,25 @@
                   <ablFR:filePath>Racks/Instrument Racks/Synth Keys/Evolve Organ.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
+                  <ablFR:keywords>
+                     <rdf:Bag>
+                        <rdf:li>Sounds|Piano &amp; Keys</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:keywords>
+                  <ablFR:hideKeywords>
+                     <rdf:Bag>
+                        <rdf:li>Sounds|Piano &amp; Keys|Organ</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:hideKeywords>
                </rdf:li>
                <rdf:li rdf:parseType="Resource">
                   <ablFR:filePath>Racks/Instrument Racks/Synth Keys/Ancient Dream.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -380,7 +392,7 @@
                   <ablFR:filePath>Racks/Instrument Racks/Pad/Pad MPE/MPE Slide Orchestrator.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -388,7 +400,7 @@
                   <ablFR:filePath>Racks/Instrument Racks/Brass/Basic Silk Horns.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -396,7 +408,7 @@
                   <ablFR:filePath>Racks/Instrument Racks/Brass/Horns Mellow.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -404,7 +416,7 @@
                   <ablFR:filePath>Devices/Instruments/Tension/Strings/Strings Quartet.adv</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -412,23 +424,225 @@
                   <ablFR:filePath>Devices/Instruments/Electric/Piano &amp; Keys/Organ Soft.adv</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
+                  <ablFR:keywords>
+                     <rdf:Bag>
+                        <rdf:li>Sounds|Piano &amp; Keys</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:keywords>
+                  <ablFR:hideKeywords>
+                     <rdf:Bag>
+                        <rdf:li>Sounds|Piano &amp; Keys|Organ</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:hideKeywords>
                </rdf:li>
                <rdf:li rdf:parseType="Resource">
                   <ablFR:filePath>Devices/Instruments/Simpler/Pad/Modular Organ Pad.adv</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
+                  <ablFR:keywords>
+                     <rdf:Bag>
+                        <rdf:li>Sounds|Piano &amp; Keys</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:keywords>
+                  <ablFR:hideKeywords>
+                     <rdf:Bag>
+                        <rdf:li>Sounds|Piano &amp; Keys|Organ</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:hideKeywords>
                </rdf:li>
                <rdf:li rdf:parseType="Resource">
                   <ablFR:filePath>Racks/Instrument Racks/Bass/Analog Bass.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Racks/Instrument Racks/Mallets/Tubular FM Bells.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Racks/Drum Racks/Selector Kits/Drum Machine Selector Kit.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
                         <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+                  <ablFR:keywords>
+                     <rdf:Bag>
+                        <rdf:li>Drums|Drum Kit</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:keywords>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Racks/Instrument Racks/Bass/808 Selector Rack.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+                  <ablFR:keywords>
+                     <rdf:Bag>
+                        <rdf:li>Sounds|Bass</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:keywords>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Racks/Instrument Racks/Strings/Drama Synth.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Devices/MIDI Effects/Chord/Grandiosa.adv</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Racks/Audio Effect Racks/Amp Simulation/Basic Lead Guitar Amp.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Racks/Audio Effect Racks/Amp Simulation/Basic Bass Amp.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Racks/Audio Effect Racks/Amp Simulation/Basic Heavy Guitar Amp.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Racks/Instrument Racks/Mallets/Mallets MPE/MPE Misty Bells.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Racks/Instrument Racks/Pad/Pad MPE/MPE Ghost Choir Pad.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Racks/Instrument Racks/Pad/Pad MPE/MPE Dark Cinema Pad.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Racks/Instrument Racks/Pad/Pad MPE/MPE Velvet Robe.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+                  <ablFR:keywords>
+                     <rdf:Bag>
+                        <rdf:li>Sounds|Bass</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:keywords>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Racks/Instrument Racks/Strings/Strings MPE/MPE Synth Bow.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Racks/Instrument Racks/Strings/Strings MPE/MPE Warping Strings.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Racks/Instrument Racks/Synth Keys/Synth Keys MPE/MPE Synth Pipe Organ.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Racks/Instrument Racks/Synth Lead/Epic Chords.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Racks/Instrument Racks/Synth Lead/Classic Club Saw.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Racks/Instrument Racks/Synth Lead/Reed Synth.adg</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Devices/Instruments/Analog/Synth Lead/Square Sync Lead.adv</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Devices/Instruments/Analog/Synth Lead/Dual OSC Sync Bright Lead.adv</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -436,7 +650,7 @@
          </ablFR:items>
          <xmp:CreatorTool>Updated by Ableton Index 12.2.7</xmp:CreatorTool>
          <xmp:CreateDate>2025-04-13T16:36:03-05:00</xmp:CreateDate>
-         <xmp:MetadataDate>2026-01-06T22:44:13-06:00</xmp:MetadataDate>
+         <xmp:MetadataDate>2026-01-20T23:45:32-06:00</xmp:MetadataDate>
       </rdf:Description>
    </rdf:RDF>
 </x:xmpmeta>

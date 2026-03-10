@@ -1,0 +1,9 @@
+Type|Template
+Sounds|Synth
+Character|Pluck
+Sounds|Brass|Clarinet
+Sounds|Strings|Zither
+Sounds|Strings|Koto
+Character|Western
+Type|Selector
+Character|Drone

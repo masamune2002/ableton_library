@@ -15,14 +15,15 @@
                   <ablFR:filePath>Sounds/Synth Pad/Bi-Phase Sector.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
             </rdf:Bag>
          </ablFR:items>
-         <xmp:CreatorTool>Ableton Index 12.2.5</xmp:CreatorTool>
+         <xmp:CreatorTool>Updated by Ableton Index 12.2.7</xmp:CreatorTool>
          <xmp:CreateDate>2025-10-21T17:06:54-05:00</xmp:CreateDate>
+         <xmp:MetadataDate>2026-01-10T18:16:39-06:00</xmp:MetadataDate>
       </rdf:Description>
    </rdf:RDF>
 </x:xmpmeta>

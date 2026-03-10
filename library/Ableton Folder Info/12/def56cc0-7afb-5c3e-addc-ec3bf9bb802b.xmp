@@ -15,7 +15,7 @@
                   <ablFR:filePath>Sounds/Synth Keys/Arctic Shadows.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -23,7 +23,7 @@
                   <ablFR:filePath>Sounds/Synth Keys/Churchstab.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -31,7 +31,7 @@
                   <ablFR:filePath>Sounds/Synth Lead/Anthem.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -39,7 +39,7 @@
                   <ablFR:filePath>Sounds/Synth Lead/Asynchronous Lead.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -47,7 +47,7 @@
                   <ablFR:filePath>Sounds/Synth Lead/Bendy.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -55,7 +55,7 @@
                   <ablFR:filePath>Sounds/Synth Lead/Big Room Superglide.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -63,7 +63,7 @@
                   <ablFR:filePath>Sounds/Synth Lead/Buzz Wrecker.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -71,7 +71,7 @@
                   <ablFR:filePath>Sounds/Synth Lead/Buzzsaw.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -80,6 +80,7 @@
                   <ablFR:colors>
                      <rdf:Bag>
                         <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -87,7 +88,7 @@
                   <ablFR:filePath>Sounds/Guitar &amp; Plucked/Focal Pluck.adg</ablFR:filePath>
                   <ablFR:colors>
                      <rdf:Bag>
-                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
                      </rdf:Bag>
                   </ablFR:colors>
                </rdf:li>
@@ -95,7 +96,7 @@
          </ablFR:items>
          <xmp:CreatorTool>Updated by Ableton Index 12.2.7</xmp:CreatorTool>
          <xmp:CreateDate>2025-04-15T17:56-05:00</xmp:CreateDate>
-         <xmp:MetadataDate>2025-12-17T22:45:17-06:00</xmp:MetadataDate>
+         <xmp:MetadataDate>2026-01-17T19:09:44-06:00</xmp:MetadataDate>
       </rdf:Description>
    </rdf:RDF>
 </x:xmpmeta>

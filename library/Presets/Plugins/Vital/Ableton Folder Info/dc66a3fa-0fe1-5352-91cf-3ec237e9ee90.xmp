@@ -1,0 +1,64 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 5.6.0">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:ablFR="https://ns.ableton.com/xmp/fs-resources/1.0/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/">
+         <dc:format>application/vnd.ableton.folder</dc:format>
+         <ablFR:resource>folder</ablFR:resource>
+         <ablFR:platform>win</ablFR:platform>
+         <ablFR:items>
+            <rdf:Bag>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Vital - Keys - Loneliness.vstpreset</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+                  <ablFR:keywords>
+                     <rdf:Bag>
+                        <rdf:li>Sounds|Piano &amp; Keys</rdf:li>
+                        <rdf:li>Sounds|Piano &amp; Keys|Synth Keys</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:keywords>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Vital - Lovenotes.vstpreset</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+                  <ablFR:keywords>
+                     <rdf:Bag>
+                        <rdf:li>Sounds|Piano &amp; Keys</rdf:li>
+                        <rdf:li>Sounds|Synth</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:keywords>
+                  <ablFR:hideKeywords>
+                     <rdf:Bag>
+                        <rdf:li>Sounds|Pad</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:hideKeywords>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Vital - Keys - All Hallows Keys.vstpreset</ablFR:filePath>
+                  <ablFR:keywords>
+                     <rdf:Bag>
+                        <rdf:li>Character|Soft</rdf:li>
+                        <rdf:li>Sounds|Pad</rdf:li>
+                        <rdf:li>Sounds|Piano &amp; Keys</rdf:li>
+                        <rdf:li>Sounds|Piano &amp; Keys|Organ</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:keywords>
+               </rdf:li>
+            </rdf:Bag>
+         </ablFR:items>
+         <xmp:CreatorTool>Updated by Ableton Index 12.2.7</xmp:CreatorTool>
+         <xmp:CreateDate>2026-01-10T18:18:23-06:00</xmp:CreateDate>
+         <xmp:MetadataDate>2026-01-21T00:50:57-06:00</xmp:MetadataDate>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>

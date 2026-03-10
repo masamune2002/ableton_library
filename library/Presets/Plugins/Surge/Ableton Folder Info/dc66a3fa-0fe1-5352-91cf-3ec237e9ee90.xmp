@@ -1,0 +1,461 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 5.6.0">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:ablFR="https://ns.ableton.com/xmp/fs-resources/1.0/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/">
+         <dc:format>application/vnd.ableton.folder</dc:format>
+         <ablFR:resource>folder</ablFR:resource>
+         <ablFR:platform>win</ablFR:platform>
+         <ablFR:items>
+            <rdf:Bag>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Surge - Chamber Strings (Chords)vstpreset.vstpreset</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+                  <ablFR:keywords>
+                     <rdf:Bag>
+                        <rdf:li>Character|Chord</rdf:li>
+                        <rdf:li>Sounds|Strings</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:keywords>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Surge - Celestial Choir.vstpreset</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+                  <ablFR:keywords>
+                     <rdf:Bag>
+                        <rdf:li>Character|Bright</rdf:li>
+                        <rdf:li>Character|Chord</rdf:li>
+                        <rdf:li>Sounds|Pad</rdf:li>
+                        <rdf:li>Sounds|Voice</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:keywords>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Surge - Very Serious Distortion.vstpreset</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+                  <ablFR:keywords>
+                     <rdf:Bag>
+                        <rdf:li>Character|Distorted</rdf:li>
+                        <rdf:li>Sounds|Guitar &amp; Plucked</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:keywords>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Surge - Welcome Home.vstpreset</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+                  <ablFR:keywords>
+                     <rdf:Bag>
+                        <rdf:li>Character|Bright</rdf:li>
+                        <rdf:li>Character|Snappy</rdf:li>
+                        <rdf:li>Sounds|Lead</rdf:li>
+                        <rdf:li>Sounds|Mallets</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:keywords>
+                  <ablFR:hideKeywords>
+                     <rdf:Bag>
+                        <rdf:li>Sounds|Piano &amp; Keys</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:hideKeywords>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Surge - 90s Synth Lead.vstpreset</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+                  <ablFR:keywords>
+                     <rdf:Bag>
+                        <rdf:li>Character|Dark</rdf:li>
+                        <rdf:li>Character|Distorted</rdf:li>
+                        <rdf:li>Character|Punchy</rdf:li>
+                        <rdf:li>Sounds|Lead</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:keywords>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Surge - Dream Ocean Pad.vstpreset</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+                  <ablFR:keywords>
+                     <rdf:Bag>
+                        <rdf:li>Sounds|Pad</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:keywords>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Surge - Fulgur Digitalis.vstpreset</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>1</rdf:li>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+                  <ablFR:keywords>
+                     <rdf:Bag>
+                        <rdf:li>Character|Bright</rdf:li>
+                        <rdf:li>Sounds|Lead</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:keywords>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Surge - Lofi Keys.vstpreset</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+                  <ablFR:keywords>
+                     <rdf:Bag>
+                        <rdf:li>Character|Lofi &amp; Vinyl</rdf:li>
+                        <rdf:li>Sounds|Piano &amp; Keys</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:keywords>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Surge -  Mellow Sine.vstpreset</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+                  <ablFR:keywords>
+                     <rdf:Bag>
+                        <rdf:li>Character|Chord</rdf:li>
+                        <rdf:li>Sounds|Lead</rdf:li>
+                        <rdf:li>Sounds|Piano &amp; Keys</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:keywords>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Surge - Surging.vstpreset</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+                  <ablFR:keywords>
+                     <rdf:Bag>
+                        <rdf:li>Sounds|Lead</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:keywords>
+                  <ablFR:hideKeywords>
+                     <rdf:Bag>
+                        <rdf:li>Sounds|Piano &amp; Keys</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:hideKeywords>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Surge -  Synthwave.vstpreset</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+                  <ablFR:keywords>
+                     <rdf:Bag>
+                        <rdf:li>Character|Distorted</rdf:li>
+                        <rdf:li>Sounds|Lead</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:keywords>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Surge -  Attacky.vstpreset</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+                  <ablFR:keywords>
+                     <rdf:Bag>
+                        <rdf:li>Character|Snappy</rdf:li>
+                        <rdf:li>Sounds|Bass</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:keywords>
+                  <ablFR:hideKeywords>
+                     <rdf:Bag>
+                        <rdf:li>Character|Punchy</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:hideKeywords>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Surge - New World Arp.vstpreset</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+                  <ablFR:keywords>
+                     <rdf:Bag>
+                        <rdf:li>Character|Arpeggiated</rdf:li>
+                        <rdf:li>Sounds|Piano &amp; Keys</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:keywords>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Surge -  Guitar Harmonics String Orch.vstpreset</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+                  <ablFR:keywords>
+                     <rdf:Bag>
+                        <rdf:li>Sounds|Pad</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:keywords>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Surge - Infernal Choirs.vstpreset</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+                  <ablFR:keywords>
+                     <rdf:Bag>
+                        <rdf:li>Sounds|Pad</rdf:li>
+                        <rdf:li>Sounds|Voice</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:keywords>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Surge -  Moonlight Keys.vstpreset</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+                  <ablFR:keywords>
+                     <rdf:Bag>
+                        <rdf:li>Character|Bright</rdf:li>
+                        <rdf:li>Character|Stab</rdf:li>
+                        <rdf:li>Sounds|Piano &amp; Keys</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:keywords>
+                  <ablFR:hideKeywords>
+                     <rdf:Bag>
+                        <rdf:li>Sounds|Guitar &amp; Plucked</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:hideKeywords>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Surge -  Sylenth Saw.vstpreset</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+                  <ablFR:keywords>
+                     <rdf:Bag>
+                        <rdf:li>Character|Chord</rdf:li>
+                        <rdf:li>Sounds|Lead</rdf:li>
+                        <rdf:li>Sounds|Piano &amp; Keys</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:keywords>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Surge - Mellow Sine.vstpreset</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+                  <ablFR:keywords>
+                     <rdf:Bag>
+                        <rdf:li>Character|Bright</rdf:li>
+                        <rdf:li>Sounds|Woodwind</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:keywords>
+                  <ablFR:hideKeywords>
+                     <rdf:Bag>
+                        <rdf:li>Sounds|Lead</rdf:li>
+                        <rdf:li>Sounds|Piano &amp; Keys</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:hideKeywords>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Surge - Inker.vstpreset</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+                  <ablFR:keywords>
+                     <rdf:Bag>
+                        <rdf:li>Character|Bright</rdf:li>
+                        <rdf:li>Sounds|Woodwind</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:keywords>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Surge - Muffled Pop.vstpreset</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+                  <ablFR:keywords>
+                     <rdf:Bag>
+                        <rdf:li>Character|Chord</rdf:li>
+                        <rdf:li>Sounds|Mallets</rdf:li>
+                        <rdf:li>Sounds|Pad</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:keywords>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Surge -  Retro Pads.vstpreset</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+                  <ablFR:keywords>
+                     <rdf:Bag>
+                        <rdf:li>Character|Chord</rdf:li>
+                        <rdf:li>Sounds|Pad</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:keywords>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Surge -  Questionably Dated.vstpreset</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+                  <ablFR:keywords>
+                     <rdf:Bag>
+                        <rdf:li>Sounds|Bass</rdf:li>
+                        <rdf:li>Sounds|Piano &amp; Keys</rdf:li>
+                        <rdf:li>Sounds|Strings</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:keywords>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Surge -  Cinematic Handpan.vstpreset</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+                  <ablFR:keywords>
+                     <rdf:Bag>
+                        <rdf:li>Character|Cinematic</rdf:li>
+                        <rdf:li>Sounds|Mallets</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:keywords>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Surge - Back to the Future.vstpreset</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+                  <ablFR:keywords>
+                     <rdf:Bag>
+                        <rdf:li>Sounds|Lead</rdf:li>
+                        <rdf:li>Sounds|Piano &amp; Keys</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:keywords>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Surge - Blinding Lights.vstpreset</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+                  <ablFR:keywords>
+                     <rdf:Bag>
+                        <rdf:li>Character|Bright</rdf:li>
+                        <rdf:li>Sounds|Lead</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:keywords>
+                  <ablFR:hideKeywords>
+                     <rdf:Bag>
+                        <rdf:li>Sounds|Pad</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:hideKeywords>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Surge -  Chamber Strings.vstpreset</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+                  <ablFR:keywords>
+                     <rdf:Bag>
+                        <rdf:li>Character|Chord</rdf:li>
+                        <rdf:li>Sounds|Strings</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:keywords>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Surge -  Atmo Zen.vstpreset</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Surge - Classic Donk.vstpreset</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Surge - Synth Angel.vstpreset</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <ablFR:filePath>Surge -  FM Slap.vstpreset</ablFR:filePath>
+                  <ablFR:colors>
+                     <rdf:Bag>
+                        <rdf:li>6</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:colors>
+                  <ablFR:keywords>
+                     <rdf:Bag>
+                        <rdf:li>Sounds|Bass</rdf:li>
+                        <rdf:li>Sounds|Bass|Synth Bass</rdf:li>
+                     </rdf:Bag>
+                  </ablFR:keywords>
+               </rdf:li>
+            </rdf:Bag>
+         </ablFR:items>
+         <xmp:CreatorTool>Updated by Ableton Index 12.2.7</xmp:CreatorTool>
+         <xmp:CreateDate>2026-01-10T17:06:53-06:00</xmp:CreateDate>
+         <xmp:MetadataDate>2026-01-13T02:17:20-06:00</xmp:MetadataDate>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
